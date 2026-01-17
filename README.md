@@ -104,7 +104,7 @@ Best practice:
 
 ```
 DiskHealthViewer\
-  DiskHealthViewer_v1.2.1.au3
+  DiskHealthViewer_v1.2.3.au3
   DiskHealthViewer.ico
   tools\
     smartctl.exe
@@ -118,19 +118,12 @@ Requirements:
 - SciTE / AutoIt3Wrapper (comes with AutoIt)
 
 Steps:
-1. Open `DiskHealthViewer_v1.2.1.au3`
+1. Open `DiskHealthViewer_v1.2.3.au3`
 2. Ensure the icon directive is set (optional but recommended):
    ```autoit
    #AutoIt3Wrapper_Icon=DiskHealthViewer.ico
    ```
-3. (Optional) Set version metadata:
-   ```autoit
-   #AutoIt3Wrapper_Res_Description=Disk Health Viewer
-   #AutoIt3Wrapper_Res_Fileversion=1.2.1.0
-   #AutoIt3Wrapper_Res_ProductVersion=1.2.1.0
-   #AutoIt3Wrapper_Res_Field=CompanyName|GexSoft
-   ```
-4. Compile (SciTE → **Tools → Compile** or press **F7**)
+3. Compile (SciTE → **Tools → Compile** or press **F7**)
 
 Output:
 - `DiskHealthViewer.exe`
