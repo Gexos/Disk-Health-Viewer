@@ -170,8 +170,3 @@ Common approach:
 
 ---
 
-## License
-
-MIT (or your preferred license).  
-If you haven’t added a LICENSE file yet, consider adding one before publishing releases.
-
